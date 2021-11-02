@@ -1,5 +1,5 @@
 
-## Hi, I'm Klislley Costa, develp full-stack 🧑‍💻
+## Hi, I'm Klislley Costa, Web Develop 🧑‍💻
 
 [![Blog](https://img.shields.io/badge/honeycodes.com-up-yellow?style=for-the-badge&logo=appveyor)](https://honeycodes.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/honeycodes)
