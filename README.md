@@ -1,7 +1,7 @@
 <div align="center">
   
 ## Olá, bem-vindo! 
-### Sou Klislley Costa, desenvolvedor full 🧑‍💻.
+### Sou Klislley Costa, desenvolvedor 🧑‍💻.
   
 </div>
 
