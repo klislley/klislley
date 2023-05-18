@@ -48,7 +48,6 @@
 <div align="center">
   
 #### Contatos/Social: 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5541998840043&text=Ol%C3%A1%2C%20em%20breve%20responderei!)
 [![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axelklislley@gmail.com?)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:klislley@outlook.com.br?)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin/in&logoColor=white)](https://linkedin.com/in/klislley)
